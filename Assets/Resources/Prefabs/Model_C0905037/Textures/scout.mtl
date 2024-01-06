@@ -1,0 +1,44 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub SMDImport (4) to come 
+#
+newmtl Material__10
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd -o -0.0 0.0 0.0 scout_red.tga
+bump -o -0.0 0.0 0.0 scout_normal.tga
+#
+newmtl Material__11
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd -o -0.0 0.0 0.0 scout_head.tga
+#
+newmtl Material__12
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd eyeball_l.tga
+#
+newmtl Material__13
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd eyeball_r.tga
+#
+# Multi/Sub SMDImport done 
+#
+# EOF
