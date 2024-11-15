@@ -1,8 +1,44 @@
 fileFormatVersion: 2
 guid: ca622aaa41c65164ca647715e01e1249
 ModelImporter:
-  serializedVersion: 22200
-  internalIDToNameTable: []
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4813025500100637233
+    second: NASA Earth 21600x10800|EarthAction
+  - first:
+      74: -5950061812384667023
+    second: NASA Earth 21600x10800|NASA Earth 21600x10800.002|NASA Earth 21600x10800|EarthAction
+  - first:
+      74: -1042987092143330815
+    second: NASA Earth 21600x10800|NASA Earth 21600x10800.003|NASA Earth 21600x10800.001|EarthActi
+  - first:
+      74: -7465307016937070322
+    second: NASA Earth 21600x10800.001|EarthAction
+  - first:
+      74: 1628255242564951105
+    second: NASA Earth 21600x10800.001|NASA Earth 21600x10800.002|NASA Earth 21600x10800|EarthAction
+  - first:
+      74: 7289983824526931391
+    second: NASA Earth 21600x10800.001|NASA Earth 21600x10800.003|NASA Earth 21600x10800.001|EarthActi
+  - first:
+      74: 4769132149819778243
+    second: NASA Earth 21600x10800.002|EarthAction
+  - first:
+      74: 4626518944763166241
+    second: NASA Earth 21600x10800.002|NASA Earth 21600x10800.002|NASA Earth 21600x10800|EarthAction
+  - first:
+      74: 4201410878300177939
+    second: NASA Earth 21600x10800.002|NASA Earth 21600x10800.003|NASA Earth 21600x10800.001|EarthActi
+  - first:
+      74: 6503500118389398163
+    second: NASA Earth 21600x10800.003|EarthAction
+  - first:
+      74: 2379207054067594411
+    second: NASA Earth 21600x10800.003|NASA Earth 21600x10800.002|NASA Earth 21600x10800|EarthAction
+  - first:
+      74: 4772667389206717382
+    second: NASA Earth 21600x10800.003|NASA Earth 21600x10800.003|NASA Earth 21600x10800.001|EarthActi
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -19,7 +55,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -49,30 +84,23 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
-    optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -104,9 +132,6 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
